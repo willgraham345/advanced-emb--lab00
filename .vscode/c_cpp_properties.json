@@ -10,9 +10,6 @@
             "includePath": [
                 "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/include",
                 "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/src",
-                "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/.pio/libdeps/disco_f072rb/Unity/src",
-                "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/.pio/build/disco_f072rb/unity_config",
-                "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/test",
                 "C:/Users/willg/.platformio/packages/framework-zephyr/include",
                 "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/.pio/build/disco_f072rb/zephyr/include/generated",
                 "C:/Users/willg/.platformio/packages/framework-zephyr/soc/arm/st_stm32/stm32f0",
@@ -23,6 +20,7 @@
                 "C:/Users/willg/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/stm32f0xx/drivers/include",
                 "C:/Users/willg/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/stm32f0xx/drivers/include/Legacy",
                 "C:/Users/willg/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/common_ll/include",
+                "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/.pio/libdeps/disco_f072rb/Unity/src",
                 ""
             ],
             "browse": {
@@ -30,9 +28,6 @@
                 "path": [
                     "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/include",
                     "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/src",
-                    "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/.pio/libdeps/disco_f072rb/Unity/src",
-                    "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/.pio/build/disco_f072rb/unity_config",
-                    "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/test",
                     "C:/Users/willg/.platformio/packages/framework-zephyr/include",
                     "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/.pio/build/disco_f072rb/zephyr/include/generated",
                     "C:/Users/willg/.platformio/packages/framework-zephyr/soc/arm/st_stm32/stm32f0",
@@ -43,6 +38,7 @@
                     "C:/Users/willg/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/stm32f0xx/drivers/include",
                     "C:/Users/willg/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/stm32f0xx/drivers/include/Legacy",
                     "C:/Users/willg/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/common_ll/include",
+                    "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/.pio/libdeps/disco_f072rb/Unity/src",
                     ""
                 ]
             },
@@ -58,9 +54,6 @@
                 "_FORTIFY_SOURCE=2",
                 "__PROGRAM_START",
                 "__ZEPHYR__=1",
-                "PIO_UNIT_TESTING",
-                "UNIT_TEST",
-                "UNITY_INCLUDE_CONFIG_H",
                 ""
             ],
             "cStandard": "c99",
