@@ -1,3 +1,4 @@
 {
-    "cmake.configureOnOpen": false
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "C:/Users/willg/Desktop/EmbeddedSystems/rtos/labs/0.environment/my_project/.pio/libdeps/disco_f072rb/Unity"
 }
